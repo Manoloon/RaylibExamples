@@ -1,9 +1,13 @@
 #include <stdio.h>
+#include "Src/Camera2d.c"
+#include "Src/screenManager.c"
 
 ///////////////////////////////////////////////////////////////////////////////
 // Main function
 ///////////////////////////////////////////////////////////////////////////////
 int main() {
+    //RunCamera2D();
+    ScreenManager();
     return 0;
     // select a number bla y bla
     // switch for each example 
