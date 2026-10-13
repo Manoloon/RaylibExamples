@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Coding/C/RaylibExamples/build",
+  "command": "C:\\msys64\\clangarm64\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -IC:/Coding/C/RaylibExamples/src -g -std=gnu11 -std=c11 -Wall -Wextra -Wpedantic -Wshadow -o CMakeFiles\\RaylibExamples.dir\\main.c.obj -c C:\\Coding\\C\\RaylibExamples\\main.c",
+  "file": "C:/Coding/C/RaylibExamples/main.c",
+  "output": "C:/Coding/C/RaylibExamples/build/CMakeFiles/RaylibExamples.dir/main.c.obj"
+}
+]
