@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include "Src/Camera2d.c"
-#include "Src/screenManager.c"
+#include "Src/Camera2d.h"
+#include "Src/screenManager.h"
 
 ///////////////////////////////////////////////////////////////////////////////
 // Main function
 ///////////////////////////////////////////////////////////////////////////////
-int main() {
+int main(void) {
     //RunCamera2D();
     ScreenManager();
     return 0;
